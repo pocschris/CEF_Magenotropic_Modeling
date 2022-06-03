@@ -1,1 +1,1 @@
-# CEF_Magenotropic_Modeling
+# CEF_Magnetotropic_Modeling
